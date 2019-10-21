@@ -1,0 +1,29 @@
+.giphyBTN {
+    margin: 10px;
+    font-size: 25px;
+    background: rgb(223, 8, 8);
+    color: white;
+    font-family: cursive;
+}
+
+#addGiphy {
+    margin: 10px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+label {
+    margin: 10px;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+#userInput {
+    font-size: 25px;
+    font-family: cursive;
+    margin: 10px;
+}
+
+body {
+    background: rgb(197, 196, 196);
+}
