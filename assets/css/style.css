@@ -27,3 +27,10 @@ label {
 body {
     background: rgb(197, 196, 196);
 }
+
+.gif {
+    height: 200px;
+    width: 350px;
+    margin: 10px;
+    padding: 5px;
+}
